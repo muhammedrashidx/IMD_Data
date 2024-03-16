@@ -15,4 +15,4 @@ Contents:
   
 * `Temerature.m` : MATLAB code to convert temperature data to mat file.
   
-* `Clip_rainfall` : Directory containing MATLAB code to find the average rainfall over a river basin. Includes a README describing how to run the code. (The data used in this code (lat_rain, lon_rain, rainnew) are generated from the `Rainfall.m` code)
+* `Clip_rainfall` : Directory containing MATLAB code to find the average rainfall over a river basin. (The data used in this code (lat_rain, lon_rain, rainnew) are generated from the `Rainfall.m` code)
