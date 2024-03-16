@@ -9,4 +9,8 @@ Maximum Temperature 1.0 x 1.0 (GRD) - https://www.imdpune.gov.in/cmpg/Griddata/M
 
 Minimum Temperature 1.0 x 1.0 (GRD) - https://www.imdpune.gov.in/cmpg/Griddata/Min_1_Bin.html
 
-The first file convert rainfall data to mat file and the second file convert temperature data to mat file.
+Contents:
+
+* Rainfall.m : MATLAB code to convert rainfall data to mat file.
+* Temerature.m : MATLAB code to convert temperature data to mat file.
+* Clip_rainfall : Directory containing MATLAB code to find the average rainfall over a river basin. Includes a README describing how to run the code. (The data used in this code (lat_rain, lon_rain, rainnew) are generated from the Rainfall.m code)
